@@ -1,0 +1,11 @@
+commit 2617e5bb842702ce1627bcd07ad9e33af3fc6064
+Author: Tim R <tirichards@google.com>
+Date:   Tue Jul 20 16:06:30 2021 -0700
+
+    Restore 1 to many material relationship (#2585)
+    
+    * Fixed problem with 'this' in onUpdate
+    
+    * restores 1 to many material relationship
+    
+    * Updates to comments
